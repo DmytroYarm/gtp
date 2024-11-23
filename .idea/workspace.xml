@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fc09f6e-c1af-4484-ae17-7bbae136bed6" name="Changes" comment="test commit">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/bot_cmds_list.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/filters/chat_types.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/admin_private.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/user_group.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlers/user_private.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
-    </list>
+    <list default="true" id="3fc09f6e-c1af-4484-ae17-7bbae136bed6" name="Changes" comment="struct" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,11 +90,20 @@
       <option name="project" value="LOCAL" />
       <updated>1732142638710</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="struct">
+      <option name="closed" value="true" />
+      <created>1732359987683</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732359987683</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="test commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="test commit" />
+    <MESSAGE value="struct" />
+    <option name="LAST_COMMIT_MESSAGE" value="struct" />
   </component>
 </project>

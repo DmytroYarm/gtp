@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3fc09f6e-c1af-4484-ae17-7bbae136bed6" name="Changes" comment="intermediate">
-      <change afterPath="$PROJECT_DIR$/attachments/datatypes.png" afterDir="false" />
+    <list default="true" id="3fc09f6e-c1af-4484-ae17-7bbae136bed6" name="Changes" comment="experiments with text">
+      <change afterPath="$PROJECT_DIR$/common/restricted_words.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/filters/chat_types.py" beforeDir="false" afterPath="$PROJECT_DIR$/filters/chat_types.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/admin_private.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/admin_private.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/handlers/user_group.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/user_group.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/handlers/user_private.py" beforeDir="false" afterPath="$PROJECT_DIR$/handlers/user_private.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/keyboards/reply.py" beforeDir="false" afterPath="$PROJECT_DIR$/keyboards/reply.py" afterDir="false" />
     </list>
@@ -153,7 +157,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732925300020</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="experiments with text">
+      <option name="closed" value="true" />
+      <created>1733518785298</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1733518785298</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -161,6 +173,7 @@
     <MESSAGE value="struct" />
     <MESSAGE value="add button" />
     <MESSAGE value="intermediate" />
-    <option name="LAST_COMMIT_MESSAGE" value="intermediate" />
+    <MESSAGE value="experiments with text" />
+    <option name="LAST_COMMIT_MESSAGE" value="experiments with text" />
   </component>
 </project>
